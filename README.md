@@ -13,13 +13,13 @@ Requirements
 Screenshots
 -----------
 
-![flexichoice field](docs/screenshots/silverstripe-flexichoice?raw=true)
+![flexichoice field](docs/screenshots/silverstripe-flexichoice.gif?raw=true)
 
 
 Usage 
 =====
 
-* Add `FlexiChoice` field types to your `DataObject`s 
+* Add `FlexiChoice` field types to your `DataObject`(s) 
 
 ```php
 class BlockContentHeading extends DataObject {
