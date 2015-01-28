@@ -1,0 +1,11 @@
+---
+name: flexichoice
+---
+    
+FlexiChoiceField:
+  choices:
+    - LEARN MORE
+    - READ MORE
+    - MORE
+    - GET STARTED      
+   

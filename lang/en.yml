@@ -1,0 +1,8 @@
+en:
+
+  FlexiChoiceField:
+    USE_OPTIONAL: None - use provided text
+    
+    TEXT_DESCRIPTION: Use this text in place of a selection.
+    
+  
