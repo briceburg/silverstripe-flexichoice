@@ -15,6 +15,9 @@ Screenshots
 
 ![flexichoice field](docs/screenshots/silverstripe-flexichoice.gif?raw=true)
 
+(the 'Link Text' field demonstrates a `FlexiChoiceField`, 
+the 'Link' field is a [silverstripe-flexilink](https://github.com/briceburg/silverstripe-flexilink/) field)
+
 
 Usage 
 =====
